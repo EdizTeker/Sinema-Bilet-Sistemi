@@ -1,0 +1,12 @@
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\bin\Debug\net8.0-windows\Entities.deps.json
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.csproj.AssemblyReference.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.AssemblyInfoInputs.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.AssemblyInfo.cs
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.csproj.CoreCompileInputs.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\refint\Entities.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\Entities.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Entities\obj\Debug\net8.0-windows\ref\Entities.dll

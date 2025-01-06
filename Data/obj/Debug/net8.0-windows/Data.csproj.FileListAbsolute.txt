@@ -1,0 +1,15 @@
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\bin\Debug\net8.0-windows\Data.deps.json
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\bin\Debug\net8.0-windows\Data.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\bin\Debug\net8.0-windows\Data.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.csproj.AssemblyReference.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.AssemblyInfoInputs.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.AssemblyInfo.cs
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.csproj.CoreCompileInputs.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.csproj.CopyComplete
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\refint\Data.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\Data.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Data\obj\Debug\net8.0-windows\ref\Data.dll

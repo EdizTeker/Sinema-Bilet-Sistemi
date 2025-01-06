@@ -1,0 +1,17 @@
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Business.deps.json
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Business.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Business.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Data.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Data.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.csproj.AssemblyReference.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.AssemblyInfoInputs.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.AssemblyInfo.cs
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.csproj.CoreCompileInputs.cache
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.csproj.CopyComplete
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\refint\Business.dll
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\Business.pdb
+C:\Users\edizt.LAPTOP-N4TQ5B3T\Desktop\Sinema\Business\obj\Debug\net8.0-windows\ref\Business.dll
